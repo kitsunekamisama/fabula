@@ -158,7 +158,7 @@
       img="Dead (9).png" x="300" y="86" width="100" height="100" 
       drop-zone="lived">
     
-      <lived img="princesa.png" x="300" y="95" width="60" height="85" />
+      <lived img="switch1.png" x="300" y="95" width="60" height="85" />
     </agent>
     
     <agent img="Sign_2.png" x="430" y="-50" width="50" height="50" 
