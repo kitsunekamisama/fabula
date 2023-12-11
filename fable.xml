@@ -28,7 +28,7 @@
   
   </page>
   
-  <page background="bg2.jpg" soundtrack="song.wav">
+  <page background="bg_lab.jpg">
 
     <agent 
       text="Há! um zumbi logo frente..." font-size="18" x="20" y="450" 
@@ -50,7 +50,7 @@
     <agent img="2.png" x="300" y="0" width="100" height="100" />
     <agent img="2.png" x="400" y="0" width="100" height="100" />
 
-    <agent img="Idle (1).png" x="100" y="90" width="80" height="100" />
+    <agent img="spawn.png" x="100" y="90" width="80" height="100" />
     
     <agent img="Sign_2.png" x="385" y="160" width="45" height="40" on-touch="_NEXT_PAGE" />
     <agent img="dino1.png" x="335" y="80" width="200" height="140" on-touch="cortada">
