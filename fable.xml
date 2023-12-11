@@ -21,8 +21,7 @@
 		
         <agent img="1.png" x="150" y="-25" width="100" height="100" />
         <agent img="3.png" x="250" y="-25" width="100" height="100" />
-		<agent img="14.png" x="430" y="150" width="75" height="50" />
-        
+		<agent img="14.png" x="430" y="150" width="75" height="50" />        
 		<agent img="Sign_2.png" x="430" y="200" width="50" height="50" on-touch="_GOTO_PAGE:2" />
 
     <agent img="spawn.png" x="260" y="65" width="80" height="100" />
@@ -32,14 +31,14 @@
   <page background="bg2.jpg" soundtrack="song.wav">
 
     <agent 
-      text="Oh não! um desafio pela frente..." font-size="18" x="20" y="450" 
+      text="Há! um zumbi logo frente..." font-size="18" x="20" y="450" 
       width="400" on-trigger="cortada"> 
     
-    	<cortada text="O caminhos está livre!" />
+    	<cortada text="O caminho está livre!" />
     </agent>
     
     <agent 
-      text="droga tem um mostro guardondo o caminho!... mas ele não me viu, que tal bater na cabeça dele?" 
+      text="droga tem um mostro guardando o caminho!... mas ele não me viu, que tal bater na cabeça dele?" 
       x="20" y="400" width="300" on-trigger="cortada" color="orange">
     
     	<cortada y="410" text="toma essa mostro! Agora Toque na placa para prosseguir na jornada" />
