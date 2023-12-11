@@ -128,7 +128,7 @@
     <agent img="box.png" x="10" y="100" width="50" height="50" />
     <agent img="box.png" x="65" y="100" width="50" height="50" />
   
-    <agent img="Idle (1).png" x="120" y="90" width="80" height="100" />
+    <agent img="spawn.png" x="120" y="90" width="80" height="100" />
     
   	<agent 
       img="portion.png" x="430" y="100" width="40" height="40" 
