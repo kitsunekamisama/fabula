@@ -44,17 +44,17 @@
     	<cortada y="410" text="toma essa mostro! Agora Toque na placa para prosseguir na jornada" />
     </agent>
 
-    <agent img="1.png" x="0" y="0" width="100" height="100" />
-    <agent img="2.png" x="100" y="0" width="100" height="100" />
-    <agent img="2.png" x="200" y="0" width="100" height="100" />
-    <agent img="2.png" x="300" y="0" width="100" height="100" />
-    <agent img="2.png" x="400" y="0" width="100" height="100" />
+    <agent img="floor.png" x="0" y="0" width="100" height="100" />
+    <agent img="floor2.png" x="100" y="0" width="100" height="100" />
+    <agent img="floor2.png" x="200" y="0" width="100" height="100" />
+    <agent img="floor2.png" x="300" y="0" width="100" height="100" />
+    <agent img="floor3.png" x="400" y="0" width="100" height="100" />
 
     <agent img="spawn.png" x="100" y="90" width="80" height="100" />
     
     <agent img="SignArrow.png" x="385" y="90" width="45" height="40" on-touch="_NEXT_PAGE" />
-    <agent img="dino1.png" x="335" y="80" width="200" height="140" on-touch="cortada">
-      <cortada img="dino2.png" x="310" y="80" width="180" height="100" />
+    <agent img="zoombie.png" x="335" y="80" width="200" height="140" on-touch="cortada">
+      <cortada img="zombie2.png" x="310" y="80" width="180" height="100" />
     </agent>
   
   </page>
