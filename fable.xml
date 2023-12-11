@@ -70,7 +70,7 @@
     
     <agent 
       text="O que acontece se tocar no painel de controle?" 
-      x="20" y="390" width="300" on-trigger="unlocked"> 
+      x="20" y="390" width="300" on-trigger="unlocked" color="aliceblue"> 
     	
     	<unlocked y="410" text="Acesso liberado... A gora toque na porta" color="orange"/>
     </agent>
