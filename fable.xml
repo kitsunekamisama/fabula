@@ -61,8 +61,8 @@
   
   <page background="bg_lab.png" soundtrack="song3.wav">
     <agent 
-      text="oh!! uma caverna secreta" font-size="19" x="20" y="450" 
-      width="400" />
+      text="Uma passagem a frente" font-size="19" x="20" y="450" 
+      width="400" color="aliceblue"/>
 
     <agent 
       text="Precisamos abrir a porta" font-size="16" x="20" y="430" 
@@ -75,16 +75,16 @@
     	<unlocked y="410" text="Acesso liberado... A gora toque na porta" color="orange"/>
     </agent>
 
-    <agent img="1.png" x="0" y="0" width="100" height="100" />
-    <agent img="2.png" x="100" y="0" width="100" height="100" />
-    <agent img="2.png" x="200" y="0" width="100" height="100" />
-    <agent img="2.png" x="300" y="0" width="100" height="100" />
-    <agent img="2.png" x="400" y="0" width="100" height="100" />
+    <agent img="floor.png" x="0" y="0" width="100" height="100" />
+    <agent img="floor2.png" x="100" y="0" width="100" height="100" />
+    <agent img="floor2.png" x="200" y="0" width="100" height="100" />
+    <agent img="floor2.png" x="300" y="0" width="100" height="100" />
+    <agent img="floor3.png" x="400" y="0" width="100" height="100" />
 
     <agent img="Bush.png" x="20" y="100" width="100" height="60" />
     <agent img="block.png" x="310" y="100" width="200" height="200" />
     
-    <agent img="Idle (1).png" x="100" y="90" width="80" height="100" />
+    <agent img="spawn.png" x="100" y="90" width="80" height="100" />
     
     <agent 
       img="switchLock.png" x="340" y="100" width="20" 
