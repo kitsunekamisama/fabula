@@ -1,6 +1,6 @@
 <fable>
   
-	<page background="bg.png">
+	<page background="bg_neve.png">
   
 		<agent 
       text="Renascimento das Sombras" font-size="20" x="20" y="460" 
@@ -18,12 +18,13 @@
     
     
        
-		<agent img="block.png" x="250" y="-25" width="100" height="100" />
-		<agent img="13.png" x="430" y="150" width="75" height="50" />
-    
+		
+        <agent img="2.png" x="250" y="-25" width="100" height="100" />
+		<agent img="14.png" x="430" y="150" width="75" height="50" />
+        <agent img="2.png" x="250" y="-25" width="100" height="100" />
 		<agent img="Sign_2.png" x="430" y="200" width="50" height="50" on-touch="_GOTO_PAGE:2" />
 
-    <agent img="Idle (1).png" x="260" y="65" width="80" height="100" />
+    <agent img="spawn.png" x="260" y="65" width="80" height="100" />
   
   </page>
   
