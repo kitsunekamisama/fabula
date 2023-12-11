@@ -3,11 +3,11 @@
 	<page background="bg.png" soundtrack="song3.wav">
   
 		<agent 
-      text="O jovem Cavaleiro" font-size="20" x="20" y="460" 
-      width="400" />
+      text="Renascimento das Sombras" font-size="20" x="20" y="460" 
+      width="400" color="aliceblue"/>
     
-    <agent  text="Era uma vez, um jovem cavaleiro que recebeu uma carta de sua amada pricesa." 
-      x="20" y="400" width="300" />
+    <agent  text="Em uma terra onde a magia e a guerra se entrelaçavam, Spawn, um guerreiro corajoso, encontrou-se amaldiçoado por uma bruxaria sombria." 
+      x="20" y="300" width="300" color="aliceblue"/>
     
     <agent 
       text="Ele ficou muito surpreso, pois sua amada tinha sumido misteriosamente na floresta." 
