@@ -117,7 +117,7 @@
       x="20" y="390" font-size="17" color="white"
       width="240" on-trigger="theend">
       
-    	<theend text=" muito obrigada por me salva!" color="orange"/>
+    	<theend text=" Juntos, enfrentaram perigos e desvendaram antigos segredos para encontrar o feitiço reverso." color="aliceblue"/>
     </agent>
     <agent img="1.png" x="0" y="0" width="100" height="100" />
     <agent img="2.png" x="100" y="0" width="100" height="100" />
