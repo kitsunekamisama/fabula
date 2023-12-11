@@ -106,9 +106,9 @@
   <page background="noite_dark.png">
     
     <agent 
-      text="oh! não ela ta virando zumbi! ... Rápido encontre a chave e abrar o baú" 
+      text="Após uma busca árdua, Alden finalmente encontrou Elara, uma mulher de aura enigmática e olhos que brilhavam com sabedoria. Compreendendo a dor do guerreiro, ela concordou em ajudá-lo. " 
       x="20" y="430" font-size="18" color="white" 
-      width="300" on-trigger="after-chestopen">
+      width="300" on-trigger="after-chestopen" color="aliceblue">
       
     	<after-chestopen text="muito bem voce achou a poção magica, use para salvar a garota!" />
     </agent>
@@ -145,7 +145,7 @@
     </agent>
     
     <agent 
-      img="key.png" x="20" y="150" width="40" height="35" 
+      img="Key.png" x="20" y="150" width="40" height="35" 
       draggable="true" on-drop="chestopen" on-zone="after-chestopen" 
       on-trigger="after-chestopen">
     	
