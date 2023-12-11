@@ -7,11 +7,11 @@
       width="400" color="aliceblue"/>
     
     <agent  text="Em uma terra onde a magia e a guerra se entrelaçavam, Spawn, um guerreiro corajoso, encontrou-se amaldiçoado por uma bruxaria sombria." 
-      x="20" y="300" width="300" color="aliceblue"/>
+      x="20" y="380" width="300" color="aliceblue"/>
     
     <agent 
-      text="Ele ficou muito surpreso, pois sua amada tinha sumido misteriosamente na floresta." 
-      x="20" y="345" width="300" />
+      text="Transformado em uma criatura selvagem, seus olhos outrora cheios de determinação agora refletiam uma melancolia profunda." 
+      x="20" y="305" width="300"  color="aliceblue"/>
     
     <agent 
       text="Só que as notícias na carta não eram muito boas. Pois sua amada tinha caido numa armadilha e contraído uma doença desconhecida e precisava de ajuda." x="20" y="255" width="300" />
