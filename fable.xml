@@ -28,7 +28,7 @@
   
   </page>
   
-  <page background="bg_lab.jpg">
+  <page background="bg_lab.png">
 
     <agent 
       text="Há! um zumbi logo frente..." font-size="18" x="20" y="450" 
@@ -52,7 +52,7 @@
 
     <agent img="spawn.png" x="100" y="90" width="80" height="100" />
     
-    <agent img="Sign_2.png" x="385" y="160" width="45" height="40" on-touch="_NEXT_PAGE" />
+    <agent img="SignArrow.png" x="385" y="90" width="45" height="40" on-touch="_NEXT_PAGE" />
     <agent img="dino1.png" x="335" y="80" width="200" height="140" on-touch="cortada">
       <cortada img="dino2.png" x="310" y="80" width="180" height="100" />
     </agent>
