@@ -19,9 +19,10 @@
     
        
 		
-        <agent img="2.png" x="250" y="-25" width="100" height="100" />
+        <agent img="1.png" x="150" y="-25" width="100" height="100" />
+        <agent img="3.png" x="250" y="-25" width="100" height="100" />
 		<agent img="14.png" x="430" y="150" width="75" height="50" />
-        <agent img="2.png" x="250" y="-25" width="100" height="100" />
+        
 		<agent img="Sign_2.png" x="430" y="200" width="50" height="50" on-touch="_GOTO_PAGE:2" />
 
     <agent img="spawn.png" x="260" y="65" width="80" height="100" />
