@@ -155,7 +155,7 @@
     <agent img="IceBox.png" x="10" y="150" width="50" height="50" draggable="true" />
     
     <agent 
-      img="Dead (9).png" x="300" y="86" width="100" height="100" 
+      img="swith1 - Copia.png" x="300" y="86" width="100" height="100" 
       drop-zone="lived">
     
       <lived img="switch1.png" x="300" y="95" width="60" height="85" />
@@ -180,8 +180,8 @@
     <agent img="Attack (7).png" x="50" y="100" width="50" height="50" />
     <agent img="Attack (1).png" x="10" y="100" width="50" height="50" />
     <agent img="block.png" x="390" y="100" width="120" height="150" />
-    <agent text="Eles retonaram de volta para casa e viveram felizes para sempre! ..." x="15" y="450" font-size="20" />
-    <agent text="Segundo eles, o zumbi ficaram no passado, mas existia mais uma outra caverna." x="14" y="390" font-size="20" />
+    <agent text="Juntos, enfrentaram perigos e desvendaram antigos segredos para encontrar o feitiço reverso. ..." x="15" y="450" font-size="20" color="aliceblue"/>
+   
     <agent img="open.png" x="410" y="99" width="70" height="90" />
     <agent text="FIM" x="15" y="300" font-size="50" />
   </page>
